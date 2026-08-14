@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # 🍽️ 찍먹 · JJICK-MEOK
 
@@ -14,6 +14,13 @@
 
 > 20대 설문(184명) 결과, 새로운 활동을 찾을 때 가장 큰 불편은 "나에게 맞는지 판단하기 어렵다"(52.7%)였습니다.
 > 찍먹은 *더 많이 보여주는* 서비스가 아니라 *골라주는* 서비스를 지향합니다.
+
+<br>
+
+## 🔗 Demo & Presentation
+
+- 🌐 **Web Demo** — https://jjick-meok.vercel.app
+- 📑 **발표 자료** — [찍먹 최종 발표 자료](./docs/찍먹_발표자료.pdf)
 
 <br>
 
@@ -42,16 +49,7 @@
 | Repo | 설명 |
 |---|---|
 | [**App**](https://github.com/JJICK-MEOK/App) | 프론트엔드 · React Native / Expo |
-| _(백엔드 저장소)_ | 백엔드 · Spring Boot _(링크 추가)_ |
-
-<br>
-
-## 📱 Screenshots
-
-<!-- 레포에 이미지를 올리고 아래 경로를 연결하세요. 필요 없으면 이 섹션 삭제 -->
-| 큐레이션 홈 | 스와이프 탐색 | 맞춤 추천 |
-|---|---|---|
-| _(이미지)_ | _(이미지)_ | _(이미지)_ |
+| [**Server**](https://github.com/JJICK-MEOK/Server) | 백엔드 · Spring Boot |
 
 <br>
 
