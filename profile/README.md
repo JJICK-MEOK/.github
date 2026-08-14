@@ -20,7 +20,7 @@
 ## 🔗 Demo & Presentation
 
 - 🌐 **Web Demo** — https://jjick-meok.vercel.app
-- 📑 **발표 자료** — [찍먹 최종 발표 자료](./docs/찍먹_발표자료.pdf)
+- 📑 **발표 자료** — [찍먹 최종 발표 자료](https://drive.google.com/file/d/1n-yG61l9dZ_bpABUjUrFh1ywQyK3fIcT/view?usp=sharing)
 
 <br>
 
